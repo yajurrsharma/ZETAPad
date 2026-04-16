@@ -23,7 +23,8 @@ A simple macropad (or fancy word, *hackpad*) made using a Seeed Studio XIAO RP20
 
 <img width="924" height="576" alt="image" src="https://github.com/user-attachments/assets/14229390-31ae-4b7f-a3bd-b851c8342837" />
 
+---
 
-##Firmware
+## Firmware
 
 The ZETAPad uses QMK Firmware, made by me!
